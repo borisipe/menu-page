@@ -1,0 +1,36 @@
+/*body{
+    padding: 12px;
+}
+
+#container-navbar{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    width: 100%;
+    height: 5%;
+    background-color: antiquewhite;
+}
+
+img{
+    height: 100%;
+}
+
+#container-banner{
+    height: 45vw;
+}
+
+#fondo-banner-bicolor{
+    width: 100%;
+    height: 100%;
+}*/
+
+#container-banner{
+    background-color: rgb(6, 160, 166);
+    width: 100%;
+    height: 45vh;
+}
+
+
+/*img{
+    width: 100%;
+}*/
